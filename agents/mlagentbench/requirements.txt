@@ -43,7 +43,7 @@ opencv-python
 # tensorrt
 
 # llm
-openai==0.28
+openai==1.66.3
 anthropic
 langchain==0.2.10
 langchain_anthropic
